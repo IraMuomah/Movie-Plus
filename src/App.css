@@ -1,0 +1,60 @@
+.carousel-indicators [data-bs-target] {
+    height: 5px!important;
+    width: 5px!important;
+    border-radius: 100%!important;
+}
+
+/* media query then display:none  */
+
+
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+/* .container {
+    display: grid;
+    place-items: center;
+} */
+
+/* .container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+} */
+
+
+
+
+/* .carousel-control-next {
+    right: -30px;
+}
+
+.carousel-control-previous {
+    right: -30px;
+} */
+
+/* .carousel-inner:before {
+    position:absolute;
+    top:0;
+    bottom: 0;
+    right: 82%;
+    left: 0;
+    content:"";
+    display:block;
+    background-color: #fff;
+    z-index: 2;
+}
+.carousel-inner:after {
+    position:absolute;
+    top:0;
+    bottom:0;
+    right: 0;
+    left: 82%;
+    content:"";
+    display:block;
+    background-color:#fff;
+    z-index: 2;
+} */

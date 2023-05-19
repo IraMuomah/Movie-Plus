@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "./offer1.PNG",
+        "name": "Offer 1",
+        "validity": "Valid till 31 FEB 2099"
+    },
+    {
+        "id": 2,
+        "image": "./offer2.PNG",
+        "name": "Offer 2",
+        "validity": "Valid till 31 FEB 2099"
+    },
+    {
+        "id": 3,
+        "image": "./offer1.PNG",
+        "name": "Offer 3",
+        "validity": "Valid till 31 FEB 2099"
+    },
+    {
+        "id": 4,
+        "image": "./offer2.PNG",
+        "name": "Offer 4",
+        "validity": "Valid till 31 FEB 2099"
+    },
+    {
+        "id": 5,
+        "image": "./offer1.PNG",
+        "name": "Offer 5",
+        "validity": "Valid till 31 FEB 2099"
+    },
+    {
+        "id": 6,
+        "image": "./offer2.PNG",
+        "name": "Offer 6",
+        "validity": "Valid till 31 FEB 2099"
+    },
+    {
+        "id": 7,
+        "image": "./offer1.PNG",
+        "name": "Offer 7",
+        "validity": "Valid till 31 FEB 2099"
+    },
+    {
+        "id": 8,
+        "image": "./offer2.PNG",
+        "name": "Offer 8",
+        "validity": "Valid till 31 FEB 2099"
+    },
+    {
+        "id": 9,
+        "image": "./offer1.PNG",
+        "name": "Offer 9",
+        "validity": "Valid till 31 FEB 2099"
+    },
+    {
+        "id": 10,
+        "image": "./offer2.PNG",
+        "name": "Offer 10",
+        "validity": "Valid till 31 FEB 2099"
+    },
+    {
+        "id": 11,
+        "image": "./offer1.PNG",
+        "name": "Offer 11",
+        "validity": "Valid till 31 FEB 2099"
+    },
+    {
+        "id": 12,
+        "image": "./offer2.PNG",
+        "name": "Offer 12",
+        "validity": "Valid till 31 FEB 2099"
+    } 
+]
