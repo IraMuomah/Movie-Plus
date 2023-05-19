@@ -1,6 +1,7 @@
 {
   "name": "movie-plus",
   "version": "0.1.0",
+  "homepage": "https://github.com/IraMuomah/Movie_Plus.git",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
