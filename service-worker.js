@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/IraMuomah/Movie-Plus.git/precache-manifest.269156fcdeab1cfe4609ec10854c5682.js"
+  "/Movie-Plus/precache-manifest.22e68b4b9eefbf53c714e2ee30e69dbb.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/IraMuomah/Movie-Plus.git/index.html", {
+workbox.routing.registerNavigationRoute("/Movie-Plus/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
