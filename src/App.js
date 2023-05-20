@@ -1,4 +1,5 @@
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+// import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
 import React from 'react';
 import Header from './components/HeaderAndFooter/Header';
@@ -38,3 +39,9 @@ function App() {
 }
 
 export default App;
+
+// NOTE:
+// We are using HashRouter instead of normal BrowserRouter cause this is a Github project not a real project and...
+// GitHub Pages does not support browser history like your browser does. 
+// For example the route https://iramuomah.github.io/Movie-Plus/Offers doesn't help GitHub Pages understand where to point the user (since it is a frontend route).
+// To overcome this problem, we need to use a Hash Router instead of a Browser Router in our application. This type of router uses the hash portion of the URL to keep the UI in sync with the URL.
