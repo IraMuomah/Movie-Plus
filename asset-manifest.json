@@ -1,17 +1,17 @@
 {
   "main.css": "/Movie-Plus/static/css/main.427a3783.chunk.css",
-  "main.js": "/Movie-Plus/static/js/main.f12e8643.chunk.js",
-  "main.js.map": "/Movie-Plus/static/js/main.f12e8643.chunk.js.map",
+  "main.js": "/Movie-Plus/static/js/main.8c1efc2e.chunk.js",
+  "main.js.map": "/Movie-Plus/static/js/main.8c1efc2e.chunk.js.map",
   "static/js/1.51b078aa.chunk.js": "/Movie-Plus/static/js/1.51b078aa.chunk.js",
   "static/js/1.51b078aa.chunk.js.map": "/Movie-Plus/static/js/1.51b078aa.chunk.js.map",
   "static/css/2.2026c5d5.chunk.css": "/Movie-Plus/static/css/2.2026c5d5.chunk.css",
-  "static/js/2.f0fafe5e.chunk.js": "/Movie-Plus/static/js/2.f0fafe5e.chunk.js",
-  "static/js/2.f0fafe5e.chunk.js.map": "/Movie-Plus/static/js/2.f0fafe5e.chunk.js.map",
+  "static/js/2.b5433ce1.chunk.js": "/Movie-Plus/static/js/2.b5433ce1.chunk.js",
+  "static/js/2.b5433ce1.chunk.js.map": "/Movie-Plus/static/js/2.b5433ce1.chunk.js.map",
   "runtime~main.js": "/Movie-Plus/static/js/runtime~main.481ffeaa.js",
   "runtime~main.js.map": "/Movie-Plus/static/js/runtime~main.481ffeaa.js.map",
   "static/css/2.2026c5d5.chunk.css.map": "/Movie-Plus/static/css/2.2026c5d5.chunk.css.map",
   "static/css/main.427a3783.chunk.css.map": "/Movie-Plus/static/css/main.427a3783.chunk.css.map",
   "index.html": "/Movie-Plus/index.html",
-  "precache-manifest.41535b1b561878a5808aebdca0081a79.js": "/Movie-Plus/precache-manifest.41535b1b561878a5808aebdca0081a79.js",
+  "precache-manifest.0487e54147ea30f5bea602980b8c695d.js": "/Movie-Plus/precache-manifest.0487e54147ea30f5bea602980b8c695d.js",
   "service-worker.js": "/Movie-Plus/service-worker.js"
 }
